@@ -52,4 +52,4 @@ $arg  = intval($argv[1]) + 1;
 $oneisan = new Explode($arg);
 $oneisan->setGoOn(0, 0);
 $oneisan->walk(1, 0);
-print $oneisan->getCount() * 2;
+echo $oneisan->getCount() * 2;

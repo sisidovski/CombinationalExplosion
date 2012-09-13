@@ -1,4 +1,4 @@
-CombinatorialExplode
+CombinationalExplosion
 ====================
 This PHP script is an algorithm of random walk...? <br>
 inspired by the movie of Japanese National Museum of Emerging Science and Innovation.
